@@ -1,0 +1,57 @@
+///////////////////*****************************************************/////////////////////////
+			psp2 
+nivel 2
+fases:8
+fases
+planeación
+diseño
+dldr-->revisión de diseño
+código
+cr-->revisión de código
+compilación
+pruebas unitarias 
+postmortem
+formula de yield--> revisión de diseño y código.
+numero de errores o defectos removidos antes de compilación/numero de defectados inyectados antes de compilaión*100.
+yield-->indicador de productividad del programador.
+yield es malo si está <=50%
+yield es bueno si está >=50%
+ejemplo--> 
+*Un programador en el SENA removió 8 errores antes de compilar,inyectado un total de 12 errores antes de compilación.
+rta=66,6%
+*Un programador en el SENA removió 3 errores antes de compilar,inyectado un total de 12 errores antes de compilación.
+rta=25%
+listas de chequeo para diseño,código.
+nro-->
+item general-->
+item expecifica-->
+cumple
+no cumple
+observaciones
+no aplica es que no lo utilizo!
+no hice fue que no lo hice o se me olvido!	
+******************************************************************************************************************************************
+plan summary-->
+Time in phase se llena con el tiempo de planeacion
+Excel los tiempos						minutos
+Fases:
+planeación:
+diseño:
+dldr-->revisión de diseño
+código
+cr-->revisión de código
+compilación
+pruebas unitarias 
+postmortem
+defectos removido 
+defectos inyectados 
+*Debe ser el numero mas grande en el inyectado que el removido (por individual la comparación).
+si el removido esta grande que el inyectado esta mal!!. (por individual la comparación)
+*En el total no importa hacer la operacion normal.
+se cuenta antes del codigo del codigo!
+ *****************************************************************************************************************************
+program3
+xk--> tamaño loc´s, valor constante.
+se halla con el program2 por la table de proxy.
+beta1-->b1
+ 
